@@ -6,3 +6,5 @@ pandas
 sklearn.preprocessing
 numpy
 sklearn
+joblib
+streamlit
